@@ -24,7 +24,7 @@ section {
     border-style: double;
     border-radius: 10px;
     font-family: "Comic Sans MS", sans-serif;
-    box-shadow: 7px 7px grey;
+    box-shadow: 7px 7px rgb(145, 143, 143);
 }
 
 section>h2 {
